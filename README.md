@@ -1,2 +1,2 @@
 # hello-world
-just a respository
+Hi Humans!
